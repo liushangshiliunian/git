@@ -7,6 +7,7 @@ public class Dugujiujian {
     {
         System.out.println("荡剑式");
         System.out.println("浪剑式");
+        System.out.println("平剑式");
     }
 
 }
